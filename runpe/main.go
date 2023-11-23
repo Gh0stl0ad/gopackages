@@ -6,6 +6,7 @@ import (
 	"bytes"
 	"debug/pe"
 	"encoding/binary"
+	"net/http"
 	"fmt"
 	"io/ioutil"
 	"syscall"
